@@ -1,0 +1,32 @@
+/**************SELECTORS**************/
+body {
+       background-color: #fbf9fa;
+   }
+
+   hr {
+       border-style: none;
+       border-top-style: dotted;
+       border-color: grey;
+       border-width: 5px;
+       width: 10%;
+   }
+
+   h1 {
+       color: #fd0054;
+   }
+
+   h3 {
+       color: #a80038;
+   }
+
+   p {
+       color: #2b2024;
+   }
+
+/**************CLASS SELECTORS**************/
+
+
+/**************ID SELECTORS**************/
+#prsnlpic {
+    border-radius: 100%;
+}
